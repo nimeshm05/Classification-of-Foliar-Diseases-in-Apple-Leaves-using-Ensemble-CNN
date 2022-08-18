@@ -16,3 +16,6 @@ Plant leaf diseases are a major threat to the growth of the respective species i
 1. Mohammed Hussam Khatib(https://github.com/hussamkhatib)
 2. Mohammed Saqlain
 3. Nashra Tanseer
+
+## Note
+The model weights are not added to this repository because the weights file is more than 300MB. A suggestion is to run modify the code according to your requirements, train the model, and save the weights as weights_filename.h5
