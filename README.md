@@ -21,13 +21,13 @@ Plant leaf diseases are a major threat to the growth of the respective species i
 We utilized the color spaces from the OpenCV module for image processing. Color spaces can amplify the extent to which the models decipher the differences in diseases in a leaf image and, therefore, classify the disease accurately.
 
 We tried inferno, bone, hsv, jet, rainbow, and ocean color spaces from the OpenCV module.
-!(https://github.com/nimeshm05/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/bone.jpeg)
-!(https://github.com/nimeshm05/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/hsv.jpeg)
-!(https://github.com/nimeshm05/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/rainbow.jpeg)
-!(https://github.com/nimeshm05/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/ocean.jpeg)
+!(/bone.jpeg)
+!(/hsv.jpeg)
+!(/rainbow.jpeg)
+!(/ocean.jpeg)
 
 ## Ensemble Model Architecture
-!(https://github.com/nimeshm05/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/model2.jpeg)
+!(/model2.jpeg)
 
 ## Instructions to run the project
 1. Clone/Download the repository.
