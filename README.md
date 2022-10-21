@@ -17,6 +17,18 @@ This is my final-year team project completed to fulfill the Bachelor's degree in
 ## Overview
 Plant leaf diseases are a major threat to the growth of the respective species in agricultural production. As a result, reduced yield rates can lead to indeterminable economic downfall. Therefore, detection and classification of plant leaf diseases play a significant role in agricultural production. While many machine learning approaches such as Naïve Bayes and Support Vector Machines and deep learning approaches such as Convolutional Neural Network, that use single model base, exist to detect, and classify plant leaf diseases, hybrid modelling and ensemble approaches are least explored and examined. Therefore, there is a need to research and evaluate the ensemble approaches because it can produce improvements in accuracy enhancements. In this report, we present an ensemble CNN model for classifying foliar diseases in apple tree leaves. The two models that reported improved accuracy when combined, are Xception and DenseNet121 from the list of keras pre-trained models.
 
+## Image Processing
+We utilized the color spaces from the OpenCV module for image processing. Color spaces can amplify the extent to which the models decipher the differences in diseases in a leaf image and, therefore, classify the disease accurately.
+
+We tried inferno, bone, hsv, jet, rainbow, and ocean color spaces from the OpenCV module.
+!(https://github.com/nimeshm05/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/bone.jpeg)
+!(https://github.com/nimeshm05/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/hsv.jpeg)
+!(https://github.com/nimeshm05/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/rainbow.jpeg)
+!(https://github.com/nimeshm05/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/ocean.jpeg)
+
+## Ensemble Model Architecture
+!(https://github.com/nimeshm05/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/model2.jpeg)
+
 ## Instructions to run the project
 1. Clone/Download the repository.
 2. Run the model.py and colormap.py files in google colaboratory. This project requires high GPU or TPU for processing images. You can download any plant pathology dataset from kaggle datasets. For this project, we have used the plant pathology-2021 dataset. After training the model, save and download the model weights.
