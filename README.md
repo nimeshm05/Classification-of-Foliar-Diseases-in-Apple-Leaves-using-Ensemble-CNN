@@ -27,7 +27,7 @@ We tried inferno, bone, hsv, jet, rainbow, and ocean color spaces from the OpenC
 ![ocean](/ocean.jpeg)
 
 ## Ensemble Model Architecture
-![model](/model2.jpeg)
+![model](/model2.png)
 
 ## Instructions to run the project
 1. Clone/Download the repository.
