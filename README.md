@@ -1,5 +1,19 @@
 # Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN
 
+## Project Description
+#### Context
+This is my final-year team project completed to fulfill the Bachelor's degree in Computer Science and Engineering award.
+**Domain: Deep Learning(Classification task) and Image Processing**
+
+#### Duration
+9 months (almost one academic year)
+
+#### Tools
+- Tensorflow & Keras
+- OpenCV
+- Google Colab Pro(Just flexing)
+- Statistical libraries such as Matplotlib, Pandas, NumPy
+
 ## Overview
 Plant leaf diseases are a major threat to the growth of the respective species in agricultural production. As a result, reduced yield rates can lead to indeterminable economic downfall. Therefore, detection and classification of plant leaf diseases play a significant role in agricultural production. While many machine learning approaches such as Naïve Bayes and Support Vector Machines and deep learning approaches such as Convolutional Neural Network, that use single model base, exist to detect, and classify plant leaf diseases, hybrid modelling and ensemble approaches are least explored and examined. Therefore, there is a need to research and evaluate the ensemble approaches because it can produce improvements in accuracy enhancements. In this report, we present an ensemble CNN model for classifying foliar diseases in apple tree leaves. The two models that reported improved accuracy when combined, are Xception and DenseNet121 from the list of keras pre-trained models.
 
