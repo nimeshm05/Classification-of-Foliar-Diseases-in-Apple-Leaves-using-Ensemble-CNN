@@ -22,12 +22,12 @@ We utilized the color spaces from the OpenCV module for image processing. Color 
 
 We tried inferno, bone, hsv, jet, rainbow, and ocean color spaces from the OpenCV module.
 ![Bone](/bone.jpeg)
-!(/hsv.jpeg)
-!(/rainbow.jpeg)
-!(/ocean.jpeg)
+![hsv](/hsv.jpeg)
+![rainbow](/rainbow.jpeg)
+![ocean](/ocean.jpeg)
 
 ## Ensemble Model Architecture
-!(/model2.jpeg)
+![model](/model2.jpeg)
 
 ## Instructions to run the project
 1. Clone/Download the repository.
