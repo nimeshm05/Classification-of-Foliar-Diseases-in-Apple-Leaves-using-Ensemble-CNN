@@ -21,7 +21,7 @@ Plant leaf diseases are a major threat to the growth of the respective species i
 We utilized the color spaces from the OpenCV module for image processing. Color spaces can amplify the extent to which the models decipher the differences in diseases in a leaf image and, therefore, classify the disease accurately.
 
 We tried inferno, bone, hsv, jet, rainbow, and ocean color spaces from the OpenCV module.
-![Bone](/Classification-of-Foliar-Diseases-in-Apple-Leaves-using-Ensemble-CNN/blob/main/bone.jpeg)
+![Bone](/bone.jpeg)
 !(/hsv.jpeg)
 !(/rainbow.jpeg)
 !(/ocean.jpeg)
